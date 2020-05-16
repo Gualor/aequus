@@ -1,0 +1,6 @@
+x_accel_offset = -2684.9944999999943
+y_accel_offset = 3059.6310000000085
+z_accel_offset = -1200.8587499999971
+x_gyro_offset = 72.99131250000036
+y_gyro_offset = -57.796625000000006
+z_gyro_offset = -103.97675
