@@ -59,7 +59,7 @@ Aequus is a proof of concept solution composed by a [Raspbery Pi](https://www.ra
 </p>
 
 <p align="center">
-  <img height="500" src="images/aequus.gif" alt="Aequus demo">
+  <img height="490" src="images/aequus.gif" alt="Aequus demo">
 </p>
 
 ## Disclaimer
